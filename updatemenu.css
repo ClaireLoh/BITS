@@ -1,0 +1,24 @@
+#global{
+	margin-bottom:250px;
+	margin-top:250px;
+	
+}
+#view{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#Line{
+	color:#87CEEB;
+	text-decoration:none;
+}
+#logout{
+	color:#FFA500;
+	text-decoration:none;
+}
+#body {
+    background-image: url("black.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scoll;
+	background-position:70% 10%;
+	background-color: rgb(255,255,255) 
+}
